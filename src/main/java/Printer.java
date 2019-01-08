@@ -5,5 +5,5 @@ public class Printer {
         this.sheetsLeft = sheetsLeft;
     }
 
-    
+
 }
